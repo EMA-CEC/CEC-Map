@@ -194,6 +194,44 @@ html, body {
   font-size: 12px;  
 }
 
+#searchUTM {
+  font-size: 0.9em;
+  color: #1B5E20;
+}
+
+.utm-input-group {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.utm-input-group input {
+  padding: 5px;
+  font-size: 0.9em;
+  margin-top: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.utm-button-group {
+  display: flex;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+#utmSearchBtn, #utmClearBtn {
+  padding: 6px 12px;
+  font-size: 0.85em;
+  background-color: #e0e0e0;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#utmSearchBtn:hover, #utmClearBtn:hover {
+  background-color: #d0d0d0;
+}
+
 .layer-list {
   display: flex;
   flex-direction: column;
