@@ -233,6 +233,7 @@ function updateMarkers(data) {
         <p><b>Year:</b> ${row["Year"]}</p>
         <p><b>Applicant:</b> ${row["Applicant"]}</p>
         <p><b>Designated Activity:</b> ${row["Designated Activity"]}</p>
+		<p><b>Descrciption:</b> ${row["Activity Description"]}</p>
         <p><b>Location:</b> ${row["Activity Location"]}</p>
         <p><b>Easting:</b> ${row["Easting"]}</p>
         <p><b>Northing:</b> ${row["Northing"]}</p>
@@ -2755,6 +2756,7 @@ function initializeGeocoderSearch() {
               <p><b>Year:</b> ${matching["Year"]}</p>
               <p><b>Applicant:</b> ${matching["Applicant"]}</p>
               <p><b>Designated Activity:</b> ${matching["Designated Activity"]}</p>
+			  <p><b>Descrciption:</b> ${row["Activity Description"]}</p>
               <p><b>Location:</b> ${matching["Activity Location"]}</p>
               <p><b>Easting:</b> ${matching["Easting"]}</p>
               <p><b>Northing:</b> ${matching["Northing"]}</p>
