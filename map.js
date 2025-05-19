@@ -240,6 +240,7 @@ function updateMarkers(data) {
         <p><b>Northing:</b> ${row["Northing"]}</p>
         <p><b>Status:</b> ${row["Application Determination"]}</p>
         <p><b>Determination Date:</b> ${row["Determination Date"]}</p>
+	<p><b>Comments:</b> ${row["Comment"]}</p>
       `);
 
       markers.addLayer(marker);
@@ -954,8 +955,10 @@ const designatedActivities = [
   { code: "8 (b)", description: "The clearing of more than one half hectare of a forested area during a two year period."},
   { code: "8 (c)", description: "The clearing , excavation, grading or land filling of any area with a gradient of 1:4 or more."},
   { code: "9", description: "The establishment of a paved area (inclusive of associated works) of more than 4,500 square metres during a two-year period."},
-  { code: "10 (a)", description: "The establishment, decommissioning or abandonment (inclusive of associated works) of the following facilities with a capacity for 500 or more persons including staff:\n(i) institutional facilities such as an educational facility, a hospital, a health centre, a nursing home,  a prison/correctional facility; and\n(ii) other facilities such as sporting complexes, shopping malls etc."},
-  { code: "10 (b)", description: "The modification or expansion  (inclusive of associated works) of the following facilities in order to cater for 500 or more persons including staff:\n(i) institutional facilities such as an educational facility, a hospital, a health centre, a nursing home, a prison/correctional facility; and\n(ii) other facilities such as sporting complexes, shopping malls etc."},
+  { code: "10 (a)(i)", description: "The establishment, decommissioning or abandonment (inclusive of associated works) of the following facilities with a capacity for 500 or more persons including staff:\ institutional facilities such as an educational facility, a hospital, a health centre, a nursing home,  a prison/correctional facility."},
+  { code: "10 (a)(ii)", description: "The establishment, decommissioning or abandonment (inclusive of associated works) of the following facilities with a capacity for 500 or more persons including staff:\ other facilities such as sporting complexes, shopping malls etc."},
+  { code: "10 (b)(i)", description: "The modification or expansion  (inclusive of associated works) of the following facilities in order to cater for 500 or more persons including staff:\ institutional facilities such as an educational facility, a hospital, a health centre, a nursing home, a prison/correctional facility; and\n(ii) other facilities such as sporting complexes, shopping malls etc."},
+  { code: "10 (b)(ii)", description: "The modification or expansion  (inclusive of associated works) of the following facilities in order to cater for 500 or more persons including staff:\n other facilities such as sporting complexes, shopping malls etc."},
   { code: "11", description: "The establishment, modification, expansion, decommissioning or abandonment (inclusive of associated works) of: a hotel, inn, etc., with a capacity of 30 rooms or more."},
   { code: "12", description: "The reclamation of land (inclusive of associated works)."},
   { code: "13 (a)", description: "The establishment, modification, expansion, decommissioning or abandonment (inclusive of associated works) of marinas, piers, slipways, jetties or other coastal features."},
