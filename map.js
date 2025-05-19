@@ -1015,12 +1015,12 @@ const designatedActivities = [
 ];
 
 const riskDefinitions = {
-  "1(a)": {
+  "1 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.\nLow - Rearing of broilers or layers, open grazing of sheep, goats, rabbit, cattle or other livestock\nModerate - Rearing of ducks, cage farming of sheep, goats, rabbit or other livestock\nHigh - Pigs.\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - < 250 heads of poultry or 25 heads of livestock.\nVery Low - 250 to 19,999 heads poultry; 25 to 499 heads livestock\nLow - 20,000 - 100,000 poultry; 500 - 4,499 heads livestock\nModerate - 100,000 - 499,999 heads poultry, 5,000 - 14,999 heads livestock\nHigh - \u2264 500,000 heads poultry; 15,000 heads livestock\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;\nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;\nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;\nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "1(b)": {
+  "1 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.\nLow - Hatching.\nModerate - Breeding.\nHigh - Slaughtering.\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - < 250 heads poultry or 25 heads livestock.\nVery Low - 19,999 eggs or slaughter of 250 - 499 heads/week poultry or 25 - 49 heads/week livestock.\nLow - 20,000 - 99,999 eggs or slaughter of 500 to 999 heads/week poultry or 50 - 99 heads livestock.\nModerate - 100,000 to 499,999 eggs or slaughter of 1,000 - 4,999 heads per week poultry or 100 - 2,499 heads livestock.\nHigh - \u2264 500,000 eggs, 5,000 heads/week poultry or 2,500 heads/week livestock.\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;\nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;\nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;\nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1040,17 +1040,17 @@ const riskDefinitions = {
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 2 ha; \nVery Low - 2 - 9.9 ha;\nLow - 10 - 29.9 ha;\nModerate - 30 - 100 ha;\nHigh is \u2264 100 ha;\nVery High > N/A.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;\nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors e.g. agricultural etc.;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;\nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;\nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "5(a)": {
+  "5 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.\nLow - All establishment/expansion of timber plantation.\nModerate - None.\nHigh - None.\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 2 ha; \nVery Low - 2 - 9.9 ha;\nLow - 10 - 29.9 ha;\nModerate - 30 - 100 ha;\nHigh is \u2264 100 ha;\nVery High > N/A.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;\nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;\nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;\nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "5(b)": {
+  "5 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.\nLow - None.\nModerate - Logging/extraction.\nHigh - None.\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 2 ha; \nVery Low - 2 - 9.9 ha;\nLow - 10 - 29.9 ha;\nModerate - 30 - 100 ha;\nHigh is \u2264 100 ha;\nVery High > N/A.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;\nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;\nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;\nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "5(c)": {
+  "5 (c)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.\nLow - Not including treatment of wood;\nModerate - Including treatment of wood;\nHigh - None.\nVery High - None.",
     "ScaleDefinition": "Specific definitions for the Scale category is not yet developed for this Designated Activity. Officers should consider the potential area of impact of the activities to the extent that:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha; \nLow is \u2264 2 ha; \nModerate is \u2264 5 ha; \nHigh is \u2264 10 ha; \nVery High > 10 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;\nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;\nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;\nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1065,17 +1065,17 @@ const riskDefinitions = {
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - < 49.9 MW\nVery Low - 50 - 74.9 MW\nLow - 75 - 99.9 MW\nModerate - 100 - 149.9 MW                                                                                                    \nHigh - 150 MW -299.9 MW\nVery High < 300 MW",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "8(a)": {
+  "8 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - Grubbing, cutting of grass.\nVery Low - None.                                                                                                                    \nLow - Clearing, grading, filling.\nModerate - Cutting, excavation\nHigh - None.                                                                                                                        \nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 2 ha; \nVery Low - 2 - 4.9 ha clearing/grading/filling;\nLow -  5 - 14.9 ha clearing/grading/filling\nModerate - 15 - 49.9 ha clearing/grading/filling; 2 - 4.9 ha cutting/excavation;\nHigh is - 50 - 99.9 ha clearing/grading/filling; 5 - 19.9 ha cutting/excavation;\nVery High > 100 ha clearing/grading/filling; 20 ha cutting/excavation.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "8(b)": {
+  "8 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    \nLow - None.\nModerate - Secondary forest.\nHigh - Primary forest                                                                                                                  \nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 0.5 ha; \nVery Low - 0.5 - 4.9 ha;\nLow - 5 - 14.9 ha;\nModerate - 15 - 29.9 ha;\nHigh - 30 - 49.9 ha;\nVery High > 50 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "8(c)": {
+  "8 (c)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    \nLow - Filling.\nModerate - Clearing, grading.\nHigh - Cutting, excavation.                                                                                                            \nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None\nVery Low - None.\nLow - None.\nModerate - At any level.\nHigh - None.\nVery High - None",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1085,16 +1085,26 @@ const riskDefinitions = {
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - < 4,500 m2;\nVery Low - 4,501 m2 - 99,999 m2 (9.99 ha);\nLow - 10 - 29.9 ha;\nModerate - 30 - 49.9 ha; \nHigh - 50 - 149.9 ha \nVery High \u2265 150 ha",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "10(a)": {
+  "10 (a)(i)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - Playlot, School \u2013 daycare/nursery school/ECCE.\nLow - Neighborhood Strip mall - retail, Entertainment center \u2013 indoor, Cinema \u2013 indoor, Medical facility - primary, School \u2013 primary, Church/religious institution, Library.\nModerate - Sub-regional Shopping mall/center - neighborhood, Entertainment center \u2013 outdoor, Cinema - outdoor, Strip mall \u2013 retail & services, Medical, facility - secondary, School \u2013 secondary/tertiary, Prison/correctional facility, decommissioning of institutional facility.\nHigh - Regional & National Shopping mall/center - regional, Medical facility - tertiary, nursing home.                                                                                                                                                    \nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 499 persons;\nVery Low - 500 - 1000 persons;\nLow - 1,000 - 2,499 persons;\nModerate - 2,500 - 4,999 persons\nHigh is < 5,000 persons;\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "10(b)": {
+  "10 (a)(ii)": {
+    "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - Playlot, School \u2013 daycare/nursery school/ECCE.\nLow - Neighborhood Strip mall - retail, Entertainment center \u2013 indoor, Cinema \u2013 indoor, Medical facility - primary, School \u2013 primary, Church/religious institution, Library.\nModerate - Sub-regional Shopping mall/center - neighborhood, Entertainment center \u2013 outdoor, Cinema - outdoor, Strip mall \u2013 retail & services, Medical, facility - secondary, School \u2013 secondary/tertiary, Prison/correctional facility, decommissioning of institutional facility.\nHigh - Regional & National Shopping mall/center - regional, Medical facility - tertiary, nursing home.                                                                                                                                                    \nVery High - None.",
+    "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 499 persons;\nVery Low - 500 - 1000 persons;\nLow - 1,000 - 2,499 persons;\nModerate - 2,500 - 4,999 persons\nHigh is < 5,000 persons;\nVery High - None.",
+    "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
+  },  	
+  "10 (b)(i)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - Playlot, School \u2013 daycare/nursery school/ECCE.                                                                                                                  \nLow - Neighborhood Strip mall - retail, Entertainment center \u2013 indoor, Cinema \u2013 indoor, Medical facility - primary, School \u2013 primary, Church/religious institution, Library.\nModerate - Sub-regional Shopping mall/center - neighborhood, Entertainment center \u2013 outdoor, Cinema - outdoor, Strip mall \u2013 retail & services, Medical, facility - secondary, School \u2013 secondary/tertiary, Prison/correctional facility, decommissioning of institutional facility.\nHigh - Regional & National Shopping mall/center - regional, Medical facility - tertiary, nursing home.                                                                                                                                                    \nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 499 persons;\nVery Low - 500 - 1000 persons;\nLow - 1,000 - 2,499 persons;\nModerate - 2,500 - 4,999 persons\nHigh is < 5,000 persons;\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
+  "10 (b)(ii)": {
+    "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - Playlot, School \u2013 daycare/nursery school/ECCE.                                                                                                                  \nLow - Neighborhood Strip mall - retail, Entertainment center \u2013 indoor, Cinema \u2013 indoor, Medical facility - primary, School \u2013 primary, Church/religious institution, Library.\nModerate - Sub-regional Shopping mall/center - neighborhood, Entertainment center \u2013 outdoor, Cinema - outdoor, Strip mall \u2013 retail & services, Medical, facility - secondary, School \u2013 secondary/tertiary, Prison/correctional facility, decommissioning of institutional facility.\nHigh - Regional & National Shopping mall/center - regional, Medical facility - tertiary, nursing home.                                                                                                                                                    \nVery High - None.",
+    "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 499 persons;\nVery Low - 500 - 1000 persons;\nLow - 1,000 - 2,499 persons;\nModerate - 2,500 - 4,999 persons\nHigh is < 5,000 persons;\nVery High - None.",
+    "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
+  },	
   "11": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    \nLow - Accomodation only.\nModerate - Accomodation, entertainment, event services.\nHigh - None.                                                                                                                        \nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 29 rooms;\nVery Low - 30 - 49 rooms;\nLow - 50 - 99 rooms;\nModerate - 100 - 999 rooms;\nHigh - 1,000 - 2,999 rooms;\nVery High < 3,000 rooms.",
@@ -1105,17 +1115,17 @@ const riskDefinitions = {
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha; \nLow is \u2264 2 ha; \nModerate is \u2264 5 ha; \nHigh is \u2264 10 ha; \nVery High > 10 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "13(a)": {
+  "13 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    \nLow - Demolition of existing structure\nModerate - Soft engineering\nHigh - Hard engineering                                                                                                            \nVery High - None.\n",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None\nVery Low is \u2264 0.045 ha; \nLow - 0.05 - 0.49 ha;\nModerate - 0.5 - 0.9 ha;                                                                                                     High 1 - 4.9 ha;\nVery High \u2265 5 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "13(b)": {
+  "13 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    \nLow - None\nModerate -  Underwater structure \u2013 art installation\nHigh - Breakwater, Mariculture                                                                                                         \nVery High - Hydropower turbines\n",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None\nVery Low is \u2264 0.045 ha; \nLow - 0.05 - 0.49 ha;\nModerate - 0.5 - 0.9 ha;                                                                                                     High 1 - 4.9 ha;\nVery High \u2265 5 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "13(c)": {
+  "13 (c)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    \nLow - Dredging - maintenance\nModerate -  None\nHigh - Dredging \u2013 primary/capital                                                                                                   Very High - None\n",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None\nVery Low is \u2264 0.045 ha, 0.49 m or 999 m3;\nLow - 0.05 - 0.49 ha, 0.5 - 2.9 m or 1,000 - 9,999 m3;\nModerate - 0.5 - 0.9 ha, 3 - 9.9 m or 10,000 - 49,999 m3;                                                                                                     \nHigh 1 - 4.9 ha, 10 - 24.9 m or 50,000 - 99,999 m3;\nVery High \u2265 5 ha, \u2265 25 m or \u2265 100,000 m3",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1125,7 +1135,7 @@ const riskDefinitions = {
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is None                                                                                                                          \nVery Low < 24.9 tonnes/year;\nLow - 25 - 49.9 tonnes/year \nModerate - 50 - 299.9 tonnes/year; \nHigh < 300 tonnes/year;                                                                                                         \nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "14(b)": {
+  "14 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    \nLow - Fruits, vegetables\nModerate - Milk pasteurization, Dairy products, Margarines or vegetable oils\nHigh - None.                                                                                                                        \nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 9.9 tonnes/year\nVery Low - 10 - 49.9 tonnes/year;\nLow - 50 - 99.9 tonnes/year \nModerate - 100 - 500 tonnes/year; \nHigh - < 500 tonnes/year                                                                                                         \nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1145,12 +1155,12 @@ const riskDefinitions = {
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is None\nVery Low < 24.9 tonnes/year;\nLow - 25 - 49.9 tonnes/year \nModerate - 50 - 299.9 tonnes/year; \nHigh < 300 tonnes/year;                                                                                                         \nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "18(a)": {
+  "18 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    \nLow - Concrete batching plants (temporary), Concrete & clay products- enclosed, Asphalt products, Asphalt batching plant - temporary\nModerate - Concrete batching plants (permanent), Cement manufacture,\nConcrete & clay products- enclosed, Asphalt batching plant - permanent\nHigh - None.                                                                                                                        \nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is None\nVery Low < 24.9 tonnes/year;\nLow - 25 - 49.9 tonnes/year \nModerate - 50 - 299.9 tonnes/year; \nHigh < 300 tonnes/year;                                                                                                         \nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         \nHigh is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   \nVery High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "18(b)": {
+  "18 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    \nLow - Packaging of construction materials (Cement, Asphalt)\nModerate - None.\nHigh - None.                                                                                                                        \nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is None\nVery Low < 24.9 tonnes/year;\nLow - 25 - 49.9 tonnes/year \nModerate - 50 - 299.9 tonnes/year; \nHigh < 300 tonnes/year;                                                                                                         \nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            \nVery Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1160,22 +1170,22 @@ const riskDefinitions = {
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is None\nVery Low < 24.9 tonnes/year;\nLow - 25 - 49.9 tonnes/year \nModerate - 50 - 299.9 tonnes/year; \nHigh - 300 - 999.9 tonnes/year                                                                                                     Very High < 1,000 tonnes/year.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "20(a)": {
+  "20 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    Low -Food acidulants, Biodiesel/biofuels\nModerate - Ethanol manufacture, Sodium hydroxide, Sulphuric acid\nHigh - None.                                                                                                                        Very High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is None\nVery Low < 24.9 tonnes/year;\nLow - 25 - 49.9 tonnes/year \nModerate - 50 - 299.9 tonnes/year; \nHigh - 300 - 999.9 tonnes/year                                                                                                     Very High < 1,000 tonnes/year.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "20(b)": {
+  "20 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    Low -None.\nModerate - Gas processing (fractionation, compression, dehydration)\nHigh - None.                                                                                                                        Very High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is None\nVery Low < 24.9 tonnes/year;\nLow - 25 - 49.9 tonnes/year \nModerate - 50 - 299.9 tonnes/year; \nHigh - 300 - 999.9 tonnes/year                                                                                                     Very High < 1,000 tonnes/year.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "20(c)": {
+  "20 (c)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    Low -Cosmetics, Household products, Fibre and fibre products, clothing, Plastics and plastic products, Polymer/polymer products, Glass and glass products, Appliances and components, Electrical supplies and components.\nModerate - Furniture (metal or wood) and household fixtures, Paints, coatings, allied products, Pharmaceuticals, Dyes and inks, textiles, Rubber and rubber products, Automobiles, automobile parts and components, Adhesives/adhesive products, Leather.\nHigh -Batteries and components.                                                                                                              Very High - Asbestos or asbestos containing products.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is None\nVery Low < 24.9 tonnes/year;\nLow - 25 - 49.9 tonnes/year \nModerate - 50 - 299.9 tonnes/year; \nHigh - 300 - 999.9 tonnes/year                                                                                                     Very High < 1,000 tonnes/year.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "20(d)": {
+  "20 (d)": {
     "NatureDefinition": "Specific definitions for the Nature risk category is not yet developed for this Designated Activity. Officers should consider of the number of activities in the scope of work, and environmental hazards that may arise from these activities.\n",
     "ScaleDefinition": "Specific definitions for the Scale category is not yet developed for this Designated Activity. Officers should consider the potential area of impact of the activities to the extent that:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha; \nLow is \u2264 2 ha; \nModerate is \u2264 5 ha; \nHigh is \u2264 10 ha; \nVery High > 10 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors e.g. industrial, commercial etc.;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1205,12 +1215,12 @@ const riskDefinitions = {
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - \u2264 0.0465 ha (on-shore), \u2264 0.1 sq. km (off-shore)\nVery Low - \u2264 1 ha (on-shore), \u2264 50 sq. km (off-shore)\nLow - \u2264 2 ha (on-shore) \u2264 100 sq. km (off-shore)\nModerate -\u2264 5 ha (on-shore), \u2264 500 sq. km (off-shore), 1 - 4 wells\nHigh - \u226410 ha (on-shore), \u2264 1000 sq. km (off-shore), 5 - 19 wells\nVery High - > 10 ha (on-shore), > 1000 sq. km (off-shore), \u2264 20 wells",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "26(a)": {
+  "26 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    Low -Abandonment, re-abandonment, decommissioning of inactive wells\nWell completion, Modification of associated equipment\nModerate -Drilling \u2013 existing well (workover, infill), Gathering station (Primary treatment), Abandonment, re-abandonment, decommissioning of active wells\nHigh - Natural gas processing plant\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - \u2264 0.0465 ha (on-shore), \u2264 0.1 sq. km (off-shore)\nVery Low - \u2264 1 ha (on-shore), \u2264 50 sq. km (off-shore)\nLow - \u2264 2 ha (on-shore) \u2264 100 sq. km (off-shore)\nModerate -\u2264 5 ha (on-shore), \u2264 500 sq. km (off-shore), 1 - 4 wells\nHigh - \u226410 ha (on-shore), \u2264 1000 sq. km (off-shore), 5 - 19 wells\nVery High - > 10 ha (on-shore), > 1000 sq. km (off-shore), \u2264 20 wells",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "26(b)": {
+  "26 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.                                                                                                                    Low -None.\nModerate -None.\nHigh -None\nVery High -  Natural gas liquefaction plant, Natural gas compression facility",
     "ScaleDefinition": "Specific definitions for the Scale category is not yet developed for this Designated Activity. Officers should consider the potential area of impact of the activities to the extent that:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha; \nLow is \u2264 2 ha; \nModerate is \u2264 5 ha; \nHigh is \u2264 10 ha; \nVery High > 10 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1235,7 +1245,7 @@ const riskDefinitions = {
     "ScaleDefinition": "Specific definitions for the Scale category is not yet developed for this Designated Activity. Officers should consider the potential area of impact of the activities to the extent that:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha; \nLow is \u2264 2 ha; \nModerate is \u2264 5 ha; \nHigh is \u2264 10 ha; \nVery High > 10 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors e.g. industrial, commercial, agricultural, mixed use etc.;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "31(a)": {
+  "31 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.\nLow -Butterfly zoo, Heritage park, Nature park/Nature trails/Visitor center \nModerate - Petting zoo, Amusement park\nHigh -Water park, Zoo\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 499 persons;\nVery Low - 500 - 1000 persons;\nLow - 1,000 - 2,499 persons;\nModerate - 2,500 - 4,999 persons\nHigh is < 5,000 persons;\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1250,12 +1260,12 @@ const riskDefinitions = {
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha; \nLow is \u2264 2 ha; \nModerate is \u2264 5 ha; \nHigh is \u2264 10 ha; \nVery High > 10 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors e.g. industrial, commercial etc.;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "33(a)": {
+  "33 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - Internal road, Collector road\nLow -Main road/By-pass\nModerate -Overpass/Underpass\nHigh - Interchange\nVery High - Highway",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is < 1 km\nVery Low - 1 km - 2.9 km\nLow - 3 - 9.9 km long;                                                                                                                                                            Moderate - 10 - 19.9 km long;\nHigh -20 - 29.9 km long;\nVery High > 30 km long.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "33(b)": {
+  "33 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - Internal road, Collector road\nLow -Main road/By-pass\nModerate -None. \nHigh - None.\nVery High - Highway",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A is < 1 km\nVery Low - 1 km - 2.9 km\nLow - 3 - 9.9 km long;                                                                                                                                                            Moderate - 10 - 19.9 km long;\nHigh -20 - 29.9 km long;\nVery High > 30 km long.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1280,17 +1290,17 @@ const riskDefinitions = {
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None\nVery Low is \u2264 0.049 metric tons/day\nLow - 0.05 - 0.99 metric ton/day\nModerate - 1 - 9.9 metric tons/day\nHigh - 10 - 49.9 metric tons/day                                                                          Very High > 50 metric tons/day.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "38(a)": {
+  "38 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - Catchment\nLow -Abstraction\nModerate - Treatment\nHigh - None.\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None                                                                                                                                Very Low - None                                                                                                                                 \nLow - At all levels.\nModerate - None.\nHigh - None.\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "38(b)": {
+  "38 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.\nLow -Water wells\nModerate - None.\nHigh -None.\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None                                                                                                                                     Very Low - None                                                                                                                                         \nLow - 1 - 3 wells\nModerate - 4 - 10 wells.\nHigh - < 10 wells.\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "38(c)": {
+  "38 (c)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - Decommissioning\nLow -Water wells\nModerate - Desalination \u2013 reverse osmosis, thermal, chemical\nHigh -None.\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None                                                                                                                                     Very Low - None                                                                                                                                         \nLow - 1 - \u2264 4,999 m3/day\nModerate - 5,000 - 19,999 m3/day\nHigh - 20,000 - 49,999 m3/day\nVery High > 50,000 m3/day",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1300,27 +1310,27 @@ const riskDefinitions = {
     "ScaleDefinition": "Specific definitions for the Scale category is not yet developed for this Designated Activity. Officers should consider the potential area of impact of the activities to the extent that:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha; \nLow is \u2264 2 ha; \nModerate is \u2264 5 ha; \nHigh is \u2264 10 ha; \nVery High > 10 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "40(a)": {
+  "40 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.\nLow - Potable and process water lines\nModerate - Sewage lines\nHigh -None.\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None                                                                                                                                Very Low - None                                                                                                                                 \nLow - At all levels.\nModerate - None.\nHigh - None.\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "40(b)": {
+  "40 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None.\nLow - Water mains\nModerate - Sewage mains\nHigh -None\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None                                                                                                                                Very Low - None                                                                                                                                 \nLow - None\nModerate - At all levels\nHigh - None.\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "41(a)": {
+  "41 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - Drainage and irrigation systems\nLow - None\nModerate - None\nHigh -None\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None                                                                                                                                Very Low - None                                                                                                                                 \nLow - At all levels\nModerate - None                                                                                                                                     High - None\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "41(b)": {
+  "41 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None\nLow - Flood control system, water supply impoundment\nModerate - None\nHigh -None\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None                                                                                                                                Very Low - None                                                                                                                                 \nLow - At all levels\nModerate - None                                                                                                                                     High - None\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "41(c)": {
+  "41 (c)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None\nLow - Establishment of bridges/crossings, Damming/Temporary diversion, Retaining/stabilization structures\nModerate - Realignment\nHigh -None\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None                                                                                                                                Very Low - Bridges/crossings at all levels.                                                                                                                                \nLow - At all levels\nModerate - Dams/diversions at all levels.                                                                                                                                     High - Realignment at all levels.\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1330,32 +1340,32 @@ const riskDefinitions = {
     "ScaleDefinition": "Specific definitions for the Scale category is not yet developed for this Designated Activity. Officers should consider the potential area of impact of the activities to the extent that:\nN/A - None\nVery Low - 1 - 14.9 m3/day\nLow - 15 - 49.9 m3/day\nModerate - 50 - 199.9 m3/day\nHigh - 200 - 499.9 m3/day\nVery High 500 m3/day",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "43(a)": {
+  "43 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None\nLow - Vehicle washing\nModerate - Fuel station - decommissioning, Vehicle maintenance, Autobody repair, Vehicle painting/straightening, Mechanical repair\nHigh - Fuel station \u2013 establishment \nVery High - None.",
     "ScaleDefinition": "Specific definitions for the Scale category is not yet developed for this Designated Activity. Officers should consider the potential area of impact of the activities to the extent that:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha; \nLow is \u2264 2 ha; \nModerate is \u2264 5 ha; \nHigh is \u2264 10 ha; \nVery High > 10 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "43(b)": {
+  "43 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None\nLow - Wet - washing/laundering\nModerate - Dry cleaning\nHigh -None\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None                                                                                                                                Very Low - None                                                                                                                     \nLow - Wet cleaning - at all levels.\nModerate - Dry cleaning - at all levels.                                                                                                                                     High - None.\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "43(c)": {
+  "43 (c)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None\nLow  - None\nModerate - Commercial kitchen\nHigh -None\nVery High - None.",
     "ScaleDefinition": "Officers should be guided by the following definitions for Scale risk assessment:\nN/A - None                                                                                                                                Very Low - None                                                                                                                     \nLow - None\nModerate - At all levels.                                                                                                                                     High - None.\nVery High - None.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "43(d)": {
+  "43 (d)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None\nLow - Biosafety-Level 1, Food and drug\nModerate - Chemical/industrial lab , Biosafety-Level 2, Toxicology and environmental testing\nHigh - Clinical/medical/hospital, Biosafety-Level 3\nVery High - Biosafety-Level 4",
     "ScaleDefinition": "Specific definitions for the Scale category is not yet developed for this Designated Activity. Officers should consider the potential area of impact of the activities to the extent that:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha; \nLow is \u2264 2 ha; \nModerate is \u2264 5 ha; \nHigh is \u2264 10 ha; \nVery High > 10 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "44(a)": {
+  "44 (a)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None\nLow - Animal burial\nModerate - Human burial\nHigh - None\nVery High - None",
     "ScaleDefinition": "Specific definitions for the Scale category is not yet developed for this Designated Activity. Officers should consider the potential area of impact of the activities to the extent that:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha; \nLow is \u2264 2 ha; \nModerate is \u2264 5 ha; \nHigh is \u2264 10 ha; \nVery High > 10 ha.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
   },
-  "44(b)": {
+  "44 (b)": {
     "NatureDefinition": "Officers should be guided by the following definitions for Nature risk assessment:\nN/A - None.\nVery Low - None\nLow - Animal cremation                                                                                                 Moderate - Human cremation\nHigh - None\nVery High - None",
     "ScaleDefinition": "Specific definitions for the Scale category is not yet developed for this Designated Activity. Officers should consider the potential area of impact of the activities to the extent that:\nN/A is \u2264 0.0465 ha; \nVery Low is \u2264 1 ha or 1 body; \nLow is \u2264 2 ha or 2 bodies; \nModerate is \u2264 5 ha or 3 bodies; \nHigh is \u2264 10 ha or 5 bodies; \nVery High - N/A.",
     "LocationDefinition": "Officers should consider the Location of proposed activity in relation to nearby sensitive receptors defined as:\n N/A is no human or ecological receptor present;                                                                            Very Low is existing facility;\nLow is area presently being used for similar purpose with no potentially affected receptors i.e. agricultural, commercial, industrial, mixed use;\nModerate is area with potentially affected receptors e.g. residential, cultural, religious organizations, schools, forest etc.;                                                                                                         High is area with sensitive receptors e.g. marine, coastal, forest reserve, beach, mangrove etc.;                                                                                                                                   Very High is area with very sensitive receptors e.g. Environmentally Sensitive Area or known habitat of Environmentally Sensitive Species."
@@ -1364,13 +1374,13 @@ const riskDefinitions = {
 
 const da_data = [
   {
-    "DA": "1(a)",
+    "DA": "1 (a)",
     "Nature": 1.5,
     "Scale": 1.5,
     "Location": 3
   },
   {
-    "DA": "1(b)",
+    "DA": "1 (b)",
     "Nature": 2,
     "Scale": 1,
     "Location": 3
@@ -1394,13 +1404,13 @@ const da_data = [
     "Location": 3
   },
   {
-    "DA": "5(a)",
+    "DA": "5 (a)",
     "Nature": 1.5,
     "Scale": 1.5,
     "Location": 3
   },
   {
-    "DA": "5(b)",
+    "DA": "5 (b)",
     "Nature": 1.5,
     "Scale": 1.5,
     "Location": 3
@@ -1418,19 +1428,19 @@ const da_data = [
     "Location": 1
   },
   {
-    "DA": "8(a)",
+    "DA": "8 (a)",
     "Nature": 1,
     "Scale": 2.5,
     "Location": 2.5
   },
   {
-    "DA": "8(b)",
+    "DA": "8 (b)",
     "Nature": 2.5,
     "Scale": 1,
     "Location": 2.5
   },
   {
-    "DA": "8(c)",
+    "DA": "8 (c)",
     "Nature": 1.5,
     "Scale": 3,
     "Location": 1.5
@@ -1442,17 +1452,29 @@ const da_data = [
     "Location": 1.5
   },
   {
-    "DA": "10(a)",
+    "DA": "10 (a)(i)",
     "Nature": 1,
     "Scale": 3,
     "Location": 2
   },
   {
-    "DA": "10(b)",
+    "DA": "10 (a)(ii)",
+    "Nature": 1,
+    "Scale": 3,
+    "Location": 2
+  },	
+  {
+    "DA": "10 (b)(i)",
     "Nature": 1,
     "Scale": 2.5,
     "Location": 2.5
   },
+  {
+    "DA": "10 (b)(ii)",
+    "Nature": 1,
+    "Scale": 2.5,
+    "Location": 2.5
+  },	
   {
     "DA": "11",
     "Nature": 1,
@@ -1466,31 +1488,31 @@ const da_data = [
     "Location": 2.5
   },
   {
-    "DA": "13(a)",
+    "DA": "13 (a)",
     "Nature": 2.5,
     "Scale": 1,
     "Location": 2.5
   },
   {
-    "DA": "13(b)",
+    "DA": "13 (b)",
     "Nature": 2.5,
     "Scale": 1,
     "Location": 2.5
   },
   {
-    "DA": "13(c)",
+    "DA": "13 (c)",
     "Nature": 2.5,
     "Scale": 1,
     "Location": 2.5
   },
   {
-    "DA": "14(a)",
+    "DA": "14 (a)",
     "Nature": 2,
     "Scale": 2,
     "Location": 2
   },
   {
-    "DA": "14(b)",
+    "DA": "14 (b)",
     "Nature": 2,
     "Scale": 2,
     "Location": 2
@@ -1514,13 +1536,13 @@ const da_data = [
     "Location": 2
   },
   {
-    "DA": "18(a)",
+    "DA": "18 (a)",
     "Nature": 1,
     "Scale": 2,
     "Location": 3
   },
   {
-    "DA": "18(b)",
+    "DA": "18 (b)",
     "Nature": 1,
     "Scale": 2,
     "Location": 3
@@ -1532,25 +1554,25 @@ const da_data = [
     "Location": 2.5
   },
   {
-    "DA": "20(a)",
+    "DA": "20 (a)",
     "Nature": 3,
     "Scale": 2,
     "Location": 1
   },
   {
-    "DA": "20(b)",
+    "DA": "20 (b)",
     "Nature": 3,
     "Scale": 2,
     "Location": 1
   },
   {
-    "DA": "20(c)",
+    "DA": "20 (c)",
     "Nature": 1.5,
     "Scale": 1.5,
     "Location": 3
   },
   {
-    "DA": "20(d)",
+    "DA": "20 (d)",
     "Nature":1.5,
     "Scale": 1.5,
     "Location": 3
@@ -1586,13 +1608,13 @@ const da_data = [
     "Location": 1
   },
   {
-    "DA": "26(a)",
+    "DA": "26 (a)",
     "Nature": 2.5,
     "Scale": 2.5,
     "Location": 1
   },
   {
-    "DA": "26(b)",
+    "DA": "26 (b)",
     "Nature": 2.5,
     "Scale": 2.5,
     "Location": 1
@@ -1622,13 +1644,13 @@ const da_data = [
     "Location": 3
   },
   {
-    "DA": "31(a)",
+    "DA": "31 (a)",
     "Nature": 1,
     "Scale": 2.5,
     "Location": 2.5
   },
   {
-    "DA": "31(b)",
+    "DA": "31 (b)",
     "Nature": 1,
     "Scale": 2.5,
     "Location": 2.5
@@ -1640,13 +1662,13 @@ const da_data = [
     "Location": 2
   },
   {
-    "DA": "33(a)",
+    "DA": "33 (a)",
     "Nature": 2,
     "Scale": 2,
     "Location": 2
   },
   {
-    "DA": "33(b)",
+    "DA": "33 (b)",
     "Nature":2,
     "Scale": 2,
     "Location": 2
@@ -1676,19 +1698,19 @@ const da_data = [
     "Location": 1
   },
   {
-    "DA": "38(a)",
+    "DA": "38 (a)",
     "Nature": 1.5,
     "Scale": 3,
     "Location": 1.5
   },
   {
-    "DA": "38(b)",
+    "DA": "38 (b)",
     "Nature": 1.5,
     "Scale": 3,
     "Location": 1.5
   },
   {
-    "DA": "38(c)",
+    "DA": "38 (c)",
     "Nature": 1.5,
     "Scale": 3,
     "Location": 1.5
@@ -1700,31 +1722,31 @@ const da_data = [
     "Location": 2
   },
   {
-    "DA": "40(a)",
+    "DA": "40 (a)",
     "Nature": 2,
     "Scale": 2,
     "Location": 2
   },
   {
-    "DA": "40(b)",
+    "DA": "40 (b)",
     "Nature": 2,
     "Scale": 2,
     "Location": 2
   },
   {
-    "DA": "41(a)",
+    "DA": "41 (a)",
     "Nature": 2,
     "Scale": 2,
     "Location": 2
   },
   {
-    "DA": "41(b)",
+    "DA": "41 (b)",
     "Nature":1.5,
     "Scale": 3,
     "Location": 1.5
   },
   {
-    "DA": "41(c)",
+    "DA": "41 (c)",
     "Nature": 1.5,
     "Scale": 3,
     "Location": 1.5
@@ -1736,37 +1758,37 @@ const da_data = [
     "Location": 1.5
   },
   {
-    "DA": "43(a)",
+    "DA": "43 (a)",
     "Nature": 1,
     "Scale": 2.5,
     "Location": 2.5
   },
   {
-    "DA": "43(b)",
+    "DA": "43 (b)",
     "Nature": 2,
     "Scale": 2,
     "Location": 2
   },
   {
-    "DA": "43(c)",
+    "DA": "43 (c)",
     "Nature": 2,
     "Scale": 2,
     "Location": 2
   },
   {
-    "DA": "43(d)",
+    "DA": "43 (d)",
     "Nature": 3,
     "Scale": 1.5,
     "Location": 1.5
   },
   {
-    "DA": "44(a)",
+    "DA": "44 (a)",
     "Nature": 2,
     "Scale": 2,
     "Location": 2
   },
   {
-    "DA": "44(b)",
+    "DA": "44 (b)",
     "Nature": 2,
     "Scale": 2,
     "Location": 2
